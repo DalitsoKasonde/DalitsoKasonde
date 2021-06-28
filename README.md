@@ -1,11 +1,14 @@
-### Hi there 👋
+🇿🇲 *Dalitso Kasonde* 🤍
+======================
 
+⚪ 🤍 🎧 🎵 📚 💻 ✒️ 🤍 ⚪ 
 
-- 🔭 I’m currently working on Lets Do Good
- -🌱 I’m currently learning the MERN Stack
- -👯 I’m looking to collaborate on Video Content Creation
- -🤔 I’m looking for help with open source beginner guide to software development
- -💬 Ask me about Lets Do Good
- -😄 Pronouns: She
- -⚡ Fun fact: Delightfully Nerdy!!!
+ 💬 Ask me about **Ideate Innovations**
+ 
+:curly_loop: Pronouns: She
+
+🗒️ ✒️ [*Learning and Sharing*](www.delightfullynerdy.com)
+
+✒️ 🖤 [Personal Scribles](dalitsokasonde.com)
+
 
