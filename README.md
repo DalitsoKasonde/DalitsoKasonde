@@ -8,9 +8,9 @@
 ![](https://github.com/DalitsoKasonde/github-stats/blob/master/generated/overview.svg) 
 ![](https://github.com/DalitsoKasonde/github-stats/blob/master/generated/languages.svg)
 
- 📝 ✒️ [*Learning and Sharing*](www.delightfullynerdy.com)
+<!--  📝 ✒️ [*Learning and Sharing*](www.delightfullynerdy.com) -->
 
-✒️ 🖤 [Personal Scribles](dalitsokasonde.com) 💭
+✒️ 🖤 [Personal Scribles](dalitso.dev) 💭
 
 ⚪ 🤍 🎧 📚 💻 ✒️ 🤍 ⚪ 
 
